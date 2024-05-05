@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\Project\\ADO\\ADO_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|h:\\project\\ado\\ado_project\\project\\frmstudentupdatedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|solutionrelative:project\\frmstudentupdatedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|h:\\project\\ado\\ado_project\\project\\frmstudentupdatedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|solutionrelative:project\\frmstudentupdatedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|h:\\project\\ado\\ado_project\\project\\frmstudentinformationreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|solutionrelative:project\\frmstudentinformationreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|h:\\project\\ado\\ado_project\\project\\frmstudententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|solutionrelative:project\\frmstudententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|h:\\project\\ado\\ado_project\\project\\frmstudententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|solutionrelative:project\\frmstudententry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|h:\\project\\ado\\ado_project\\project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|solutionrelative:project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|h:\\project\\ado\\ado_project\\project\\frmcourseentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|solutionrelative:project\\frmcourseentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|h:\\project\\ado\\ado_project\\project\\rptstudentinformation.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|solutionrelative:project\\rptstudentinformation.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|h:\\project\\ado\\ado_project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A07158-EE04-4337-9377-C25E4B39744C}|Project\\Project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmStudentUpdateDelete.cs",
+              "DocumentMoniker": "H:\\Project\\ADO\\ADO_Project\\Project\\frmStudentUpdateDelete.cs",
+              "RelativeDocumentMoniker": "Project\\frmStudentUpdateDelete.cs",
+              "ToolTip": "H:\\Project\\ADO\\ADO_Project\\Project\\frmStudentUpdateDelete.cs",
+              "RelativeToolTip": "Project\\frmStudentUpdateDelete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:01:58.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmStudentUpdateDelete.cs [Design]",
+              "DocumentMoniker": "H:\\Project\\ADO\\ADO_Project\\Project\\frmStudentUpdateDelete.cs",
+              "RelativeDocumentMoniker": "Project\\frmStudentUpdateDelete.cs",
+              "ToolTip": "H:\\Project\\ADO\\ADO_Project\\Project\\frmStudentUpdateDelete.cs [Design]",
+              "RelativeToolTip": "Project\\frmStudentUpdateDelete.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:01:55.583Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmStudentInformationReport.cs [Design]",
+              "DocumentMoniker": "H:\\Project\\ADO\\ADO_Project\\Project\\frmStudentInformationReport.cs",
+              "RelativeDocumentMoniker": "Project\\frmStudentInformationReport.cs",
+              "ToolTip": "H:\\Project\\ADO\\ADO_Project\\Project\\frmStudentInformationReport.cs [Design]",
+              "RelativeToolTip": "Project\\frmStudentInformationReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:01:50.78Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmStudentEntry.cs",
+              "DocumentMoniker": "H:\\Project\\ADO\\ADO_Project\\Project\\frmStudentEntry.cs",
+              "RelativeDocumentMoniker": "Project\\frmStudentEntry.cs",
+              "ToolTip": "H:\\Project\\ADO\\ADO_Project\\Project\\frmStudentEntry.cs",
+              "RelativeToolTip": "Project\\frmStudentEntry.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAawBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:00:59.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmStudentEntry.cs [Design]",
+              "DocumentMoniker": "H:\\Project\\ADO\\ADO_Project\\Project\\frmStudentEntry.cs",
+              "RelativeDocumentMoniker": "Project\\frmStudentEntry.cs",
+              "ToolTip": "H:\\Project\\ADO\\ADO_Project\\Project\\frmStudentEntry.cs [Design]",
+              "RelativeToolTip": "Project\\frmStudentEntry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:00:56.266Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "H:\\Project\\ADO\\ADO_Project\\Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Project\\Form1.cs",
+              "ToolTip": "H:\\Project\\ADO\\ADO_Project\\Project\\Form1.cs [Design]",
+              "RelativeToolTip": "Project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:00:28.256Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmcourseentry.cs [Design]",
+              "DocumentMoniker": "H:\\Project\\ADO\\ADO_Project\\Project\\frmcourseentry.cs",
+              "RelativeDocumentMoniker": "Project\\frmcourseentry.cs",
+              "ToolTip": "H:\\Project\\ADO\\ADO_Project\\Project\\frmcourseentry.cs [Design]",
+              "RelativeToolTip": "Project\\frmcourseentry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:00:21.602Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rptStudentInformation.rpt",
+              "DocumentMoniker": "H:\\Project\\ADO\\ADO_Project\\Project\\rptStudentInformation.rpt",
+              "RelativeDocumentMoniker": "Project\\rptStudentInformation.rpt",
+              "ToolTip": "H:\\Project\\ADO\\ADO_Project\\Project\\rptStudentInformation.rpt",
+              "RelativeToolTip": "Project\\rptStudentInformation.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIdSURBVDhPpZJNaBNBFMf/M7ub2NhajSDiwS96CbY2BykojaD0oF5s0YPgQYReLHgpeNCLYv0AexNRb1VUAkJcPXgQEUG89BIaxI9gqzGxH6QmXTef3Wx2nJkmNev25g8ebx7z3n/ezBv8F4wx0lhK7j6fYo3lmowMhl35HoRA3XGk/YvYW\u002BsA2vCrUEIwu1hEJltwmeDc8V5Plx4BAaXEY4J7LxLSt4q4BBS6Eiq8oGm3nXHZ1VCkS9pgfxc62/0yT\u002BASaNRLIWE6ieHB3H1EZsMyVhUKTXU37Yo0RZFeVQiuL14D1tnooBtQcEwcSO9d7aoVdefw5yFC2GG\u002BDsa/OTj228LYwmXejYrkzxkUsqZMNG0TfZkexA99lHETUqlYJ0rV5YEPqfKOG7Glo3MGRSTkx2T4JNp2\u002BzGfmMf3JzNAHijHarJIfz\u002BN0wMh2QoduRrVL9x6NqrWzUt3hjfjYMiHV1NVWNHHCJAOoMof3OBOt10T8XD24kOiv0uynFFkp8ZTrPv8NNs3\u002BpXtifawUmWZWbU6q9l16Z\u002B\u002BTXrHOHHzDPP7ND6iNvSHAtjYrkLTNDzqfQleBIU/rDhdeI1Po4l7JpyqDSTSDoKdPmwLqqhaNdh2vbHrxXWhidcZ9mXBj3yJYr3Pwf7tBnL5HLZu2YRA4O/nERzp2yVrXQJiIhWrdsUwy92/lorZyURqLP4p/YZv/eBXLK9ktQL8AbhJ7xVosbKmAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-04-25T09:59:51.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\Project\\ADO\\ADO_Project\\Project\\Program.cs",
+              "RelativeDocumentMoniker": "Project\\Program.cs",
+              "ToolTip": "H:\\Project\\ADO\\ADO_Project\\Project\\Program.cs",
+              "RelativeToolTip": "Project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:50:51.081Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

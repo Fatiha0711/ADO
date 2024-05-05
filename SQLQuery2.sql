@@ -1,0 +1,47 @@
+Drop database STUDENTSDB
+go
+
+CREATE DATABASE STUDENTSDB
+GO
+USE STUDENTSDB
+GO
+
+CREATE TABLE course
+(
+	courseid INT IDENTITY PRIMARY KEY,
+	coursename VARCHAR(30) NOT NULL,
+)
+GO
+CREATE TABLE rounds
+(
+	roundsid INT IDENTITY PRIMARY KEY,
+	roundsname VARCHAR(30) NOT NULL
+)
+GO
+CREATE TABLE TSP
+(
+	TSPid INT PRIMARY KEY,
+	TSPname VARCHAR(50) NULL
+)
+GO
+
+
+CREATE TABLE student
+(
+	studentId INT PRIMARY KEY,
+	studentname VARCHAR(50) NULL,
+	DateOfBirth date NOT NULL,
+	roundsid INT REFERENCES rounds(roundsid) NULL,
+	courseid INT REFERENCES course(courseid) NULL,
+	TSPid INT REFERENCES TSP(TSPid) NULL,
+	picture VARBINARY(MAX) NULL
+)
+GO
+SELECT * FROM rounds
+INSERT INTO rounds(roundsname) VALUES('R-56')
+
+SELECT * FROM TSP
+INSERT INTO TSP(TSPid,TSPname) VALUES(1,'USSL'),
+	(2,'PNTL')
+SELECT * FROM student
+
